@@ -13,10 +13,6 @@
 - **Squirrel Logistics** — 견적 · 배차 · 정산까지 이어지는 **물류 중개 플랫폼**
 - 프론트: **React + MUI**, 상태/쿼리, 사용자/관리자 대시보드, 접근성/반응형 고도화  
 - 백엔드: **Spring Boot (JPA, MVC)**, 인증(JWT), 관리자 API, 통계 API  
-- 모바일: **Flutter WebView** 연동, 앱 쉘 및 알림/딥링크 준비
-
-> ✏️ 프로젝트 링크/스크린샷이 있으면 아래에 추가하세요  
-> 예시) Demo: https://your-demo-url | Docs: https://your-docs
 
 ---
 
@@ -25,7 +21,6 @@
   
 <img src="https://img.shields.io/badge/React-0F62FE?logo=react&logoColor=white" />
 <img src="https://img.shields.io/badge/MUI-007FFF?logo=mui&logoColor=white" />
-<img src="https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white" />
 <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" />
 
 **Backend**
@@ -38,11 +33,9 @@
 **Mobile / Infra / Tools**
 
 <img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white" />
-<img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" />
 <img src="https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=white" />
 <img src="https://img.shields.io/badge/GitHub%20Actions-181717?logo=githubactions&logoColor=white" />
 
-> ✏️ 사용 기술을 더/빼고 싶으면 위 배지 줄을 추가/삭제하세요.
 
 ---
 
@@ -99,8 +92,6 @@
 - 📦 **Squirrel Logistics Admin** — 사용자/약관/차량/지표 대시보드  
 - 🚚 **Driver App Shell (Flutter WebView)** — WebView 기반 앱 래핑, 스토리지/권한 연동  
 - 🧰 **Frontend Toolkit** — React + MUI 컴포넌트/훅 모음
-
-> ✏️ 고정(핀) 레포는 GitHub 프로필에서 **Customize your pins**로 설정하세요.
 
 ---
 
