@@ -59,7 +59,7 @@ SI/SM 환경에서 Java/Spring Boot와 Vue·React 기반 프론트엔드를 다�
 
 ---
 
-## 🧩 문제 해결 사례 (요약)
+## 🧩 문제 해결 사례
 운영/유지보수 단계에서 신규 기능 도입 시 기존 구조와 **설계 충돌**이 발생.  
 - Jira로 이슈 트래킹, Gerrit 코드리뷰로 **설계 방향 합의**  
 - 테스트 코드 작성 및 회귀 검증으로 **배포 안정성** 확보  
@@ -80,7 +80,7 @@ SI/SM 환경에서 Java/Spring Boot와 Vue·React 기반 프론트엔드를 다�
 
 ---
 
-## 🛠 사용 기술 배지 (선택)
+## 🛠 사용 기술 배지 
 <p>
   <img src="https://img.shields.io/badge/Java-007396?logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=white" />
