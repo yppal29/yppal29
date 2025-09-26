@@ -145,5 +145,4 @@ SI/SM 환경에서 Java/Spring Boot와 Vue·React 기반 프론트엔드를 다�
 ---
 
 ## 📫 Contact
-- Email: **your.email@domain.com**  <!-- ✏️ 실제 메일로 변경 -->
-- LinkedIn/Blog: **https://your-site-or-link**  <!-- ✏️ 있으면 추가 -->
+- Email: **yppal29@naver.com**  <!-- ✏️ 실제 메일로 변경 -->
