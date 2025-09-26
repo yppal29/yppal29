@@ -85,14 +85,6 @@
     alt="activity graph" />
 </div>
 
-
----
-
-## 🧩 Featured
-- 📦 **Squirrel Logistics Admin** — 사용자/약관/차량/지표 대시보드  
-- 🚚 **Driver App Shell (Flutter WebView)** — WebView 기반 앱 래핑, 스토리지/권한 연동  
-- 🧰 **Frontend Toolkit** — React + MUI 컴포넌트/훅 모음
-
 ---
 
 ## 🤝 Contact
